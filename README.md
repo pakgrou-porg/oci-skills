@@ -1,4 +1,4 @@
-# Oracle Cloud Infrastructure (OCI) Skills for Agent Zero
+# Oracle Cloud Infrastructure (OCI) Skills
 
 A comprehensive collection of 16 specialized skills for designing, implementing, and managing Oracle Cloud Infrastructure applications across the full lifecycle.
 
